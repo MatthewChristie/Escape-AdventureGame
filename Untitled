@@ -1,0 +1,51 @@
+#class Character:
+#    def __init__(char, character_name, sentence_length, start_day):
+#        Character.character_name = character_name
+#        Character.sentence_length = sentence_length
+#        Character.start_day = start_day
+
+#print(Character.character_name, Character.sentence_length, Character.start_day)
+#if character_name == "John":
+#    char1 = Character("John", 4, randint(50, 1400))
+#    print(Character)
+
+
+
+        #John,  Sentence: 4 Years (1460)
+        #if character_name == "John":
+        #    loop = True
+        #    sentence_length = 4
+        #    #arrest reason? More Info?
+        #    start_day = randint(50, 1400)
+
+        #James, Sentence: 38 Years (13,870)
+        #elif character_name == "James":
+        #    loop = True
+        #    sentence_length = 38
+        #    start_day = randint(50, 13000)
+        #    #Clara, Sentence: 14 Years (5,110)
+        #elif character_name == "Clara":
+        #    loop = True
+        #    sentence_length = 14
+        #    start_day = randint(50, 5000)
+        #    #Ramona, Sentence: 29 Years (10,585)
+        #elif character_name == "Ramona":
+        #    Loop = True
+        #    sentence_length = 29
+        #    start_day = randint(50, 10000)
+        #else:
+        #    Loop = False
+        #    print("Please chose a name from the list.")
+        #    time.sleep(3)
+        #    print("")
+        #    print("")
+    #return(character_name, sentence_length, start_day)
+
+#character_selection_function(character_name, sentence_length, start_day)
+
+#print(character_name, sentence_length, start_day)
+
+#Room 1
+#Room 2
+#Room 3
+#Room 4
