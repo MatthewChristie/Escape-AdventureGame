@@ -1,9 +1,12 @@
-g# Text-Based Adventure Game
+# Text-Based Adventure Game
+#Matthew Christie
+#May 2019 - current
 
+#Import required packages
 import time
 from random import randint
 from os import system
-system("title Prisoner - Text-Based Adventure Game")
+system("title Prisoner - Text-Based Adventure Game")        #Set title of window
 
 name_array = ["John", "James", "Clara", "Ramona"]
 start_array = [randint(50, 1400), randint(50, 13000), randint(50, 5000), randint(50, 10000)]
@@ -20,7 +23,6 @@ Room4 = False
 def intro():
     print (character_name, start_day, sentence_length)
     return
-
 
     #Intro
 print("What's your name, Prisoner?")
@@ -46,8 +48,7 @@ elif character_name == name_array[3]:
 
     #Room1
 Room1 = True
-
-#while Room1 == True:
+#while Room1s == True:
 print("")           #print Room1 intro
 print("You awake back in your cell.")
 Room1Input = input("")
